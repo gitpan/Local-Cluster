@@ -10,13 +10,25 @@ use strict;
 
 =head1 VERSION
 
-Version 0.01
+Version 0.02
 
 =cut
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 =head1 MODULES
+
+=head2 Local::Cluster::CLI::Cache
+
+CLI for cluster cache
+
+=head2 Local::Cluster::CLI::Range
+
+CLI for Cluster Range - expand/digest/count
+
+=head2 Local::Cluster::CLI::Server
+
+CLI for cluster server
 
 =head2 Local::Cluster::Cache 
 

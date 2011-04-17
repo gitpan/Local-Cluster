@@ -2,6 +2,9 @@ Changes
 MANIFEST
 Makefile.PL
 README
+lib/Local/Cluster/CLI/Cache.pm
+lib/Local/Cluster/CLI/Range.pm
+lib/Local/Cluster/CLI/Server.pm
 lib/Local/Cluster/Cache.pm
 lib/Local/Cluster/Client.pm
 lib/Local/Cluster/Config.pm
