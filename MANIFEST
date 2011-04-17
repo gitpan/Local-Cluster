@@ -1,0 +1,16 @@
+Changes
+MANIFEST
+Makefile.PL
+README
+lib/Local/Cluster/Cache.pm
+lib/Local/Cluster/Client.pm
+lib/Local/Cluster/Config.pm
+lib/Local/Cluster/EZDB.pm
+lib/Local/Cluster/Interface.pm
+lib/Local/Cluster/Range.pm
+lib/Local/Cluster/Server.pm
+lib/Local/Cluster.pm
+t/00-load.t
+t/pod-coverage.t
+t/pod.t
+META.yml                                 Module meta-data (added by MakeMaker)
